@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container > mat-card {
+    margin-top: 20px;
+    width: 80%;
+}
+
+mat-card-content {
+    margin-top: 20px;
+}
+mat-form-field{
+    width: 50%;
+}
